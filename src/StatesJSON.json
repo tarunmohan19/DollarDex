@@ -1,0 +1,302 @@
+[
+    {
+      "name": "Alabama",
+      "abbreviation": "AL",
+      "image": "https://www.freeclipartnow.com/d/21816-7/alabama.jpg",
+      "value": "1.15"
+    },
+    {
+      "name": "Alaska",
+      "abbreviation": "AK",
+      "image": "https://www.freeclipartnow.com/d/21819-6/alaska.jpg",
+      "value": "0.95"
+    },
+    {
+      "name": "Arizona",
+      "abbreviation": "AZ",
+      "image": "https://www.freeclipartnow.com/d/21821-6/arizona.jpg",
+      "value": "1.04"
+    },
+    {
+      "name": "Arkansas",
+      "abbreviation": "AR",
+      "image": "https://www.freeclipartnow.com/d/21823-6/arkansas.jpg",
+      "value": "1.15"
+    },
+    {
+      "name": "California",
+      "abbreviation": "CA",
+      "image": "https://www.freeclipartnow.com/d/21825-6/california.jpg",
+      "value": "0.87"
+    },
+    {
+      "name": "Colorado",
+      "abbreviation": "CO",
+      "image": "https://www.freeclipartnow.com/d/21827-6/colorado.jpg",
+      "value": "0.97"
+    },
+    {
+      "name": "Connecticut",
+      "abbreviation": "CT",
+      "image": "https://www.freeclipartnow.com/d/21829-6/connecticut.jpg",
+      "value": "0.92"
+    },
+    {
+      "name": "Delaware",
+      "abbreviation": "DE",
+      "image": "https://www.freeclipartnow.com/d/21831-6/delaware.jpg",
+      "value": "1.00"
+    },
+    {
+      "name": "Florida",
+      "abbreviation": "FL",
+      "image": "https://www.freeclipartnow.com/d/21833-6/florida.jpg",
+      "value": "1.00"
+    },
+    {
+      "name": "Georgia",
+      "abbreviation": "GA",
+      "image": "https://www.freeclipartnow.com/d/21835-6/georgia.jpg",
+      "value": "1.09"
+    },
+    {
+      "name": "Hawaii",
+      "abbreviation": "HI",
+      "image": "https://www.freeclipartnow.com/d/21837-6/hawaii.jpg",
+      "value": "0.84"
+    },
+    {
+      "name": "Idaho",
+      "abbreviation": "ID",
+      "image": "https://www.freeclipartnow.com/d/21839-6/idaho.jpg",
+      "value": "1.08"
+    },
+    {
+      "name": "Illinois",
+      "abbreviation": "IL",
+      "image": "https://www.freeclipartnow.com/d/21841-6/illinois.jpg",
+      "value": "1.01"
+    },
+    {
+      "name": "Indiana",
+      "abbreviation": "IN",
+      "image": "https://www.freeclipartnow.com/d/21843-6/indiana.jpg",
+      "value": "1.11"
+    },
+    {
+      "name": "Iowa",
+      "abbreviation": "IA",
+      "image": "https://www.freeclipartnow.com/d/21845-6/iowa.jpg",
+      "value": "1.11"
+    },
+    {
+      "name": "Kansas",
+      "abbreviation": "KS",
+      "image": "https://www.freeclipartnow.com/d/21847-6/kansas.jpg",
+      "value": "1.10"
+    },
+    {
+      "name": "Kentucky",
+      "abbreviation": "KY",
+      "image": "https://www.freeclipartnow.com/d/21849-6/kentucky.jpg",
+      "value": "1.14"
+    },
+    {
+      "name": "Louisiana",
+      "abbreviation": "LA",
+      "image": "https://www.freeclipartnow.com/d/21851-6/louisiana.jpg",
+      "value": "1.11"
+    },
+    {
+      "name": "Maine",
+      "abbreviation": "ME",
+      "image": "https://www.freeclipartnow.com/d/21853-6/maine.jpg",
+      "value": "1.02"
+    },
+    {
+      "name": "Maryland",
+      "abbreviation": "MD",
+      "image": "https://www.freeclipartnow.com/d/21855-6/maryland.jpg",
+      "value": "0.93"
+    },
+    {
+      "name": "Massachusetts",
+      "abbreviation": "MA",
+      "image": "https://www.freeclipartnow.com/d/21857-6/massachusetts.jpg",
+      "value": "0.93"
+    },
+    {
+      "name": "Michigan",
+      "abbreviation": "MI",
+      "image": "https://www.freeclipartnow.com/d/21859-6/michigan.jpg",
+      "value": "1.07"
+    },
+    {
+      "name": "Minnesota",
+      "abbreviation": "MN",
+      "image": "https://www.freeclipartnow.com/d/21861-6/minnesota.jpg",
+      "value": "1.03"
+    },
+    {
+      "name": "Mississippi",
+      "abbreviation": "MS",
+      "image": "https://www.freeclipartnow.com/d/21863-6/mississippi.jpg",
+      "value": "1.16"
+    },
+    {
+      "name": "Missouri",
+      "abbreviation": "MO",
+      "image": "https://www.freeclipartnow.com/d/21865-6/missouri.jpg",
+      "value": "1.12"
+    },
+    {
+      "name": "Montana",
+      "abbreviation": "MT",
+      "image": "https://www.freeclipartnow.com/d/21867-6/montana.jpg",
+      "value": "1.06"
+    },
+    {
+      "name": "Nebraska",
+      "abbreviation": "NE",
+      "image": "https://www.freeclipartnow.com/d/21816-7/alabama.jpg",
+      "value": "1.10"
+    },
+    {
+      "name": "Nevada",
+      "abbreviation": "NV",
+      "image": "https://www.freeclipartnow.com/d/21871-6/nevada.jpg",
+      "value": "1.03"
+    },
+    {
+      "name": "New Hampshire",
+      "abbreviation": "NH",
+      "image": "https://www.freeclipartnow.com/d/21873-6/new-hampshire.jpg",
+      "value": "0.94"
+    },
+    {
+      "name": "New Jersey",
+      "abbreviation": "NJ",
+      "image": "https://www.freeclipartnow.com/d/21875-6/new-jersey.jpg",
+      "value": "0.88"
+    },
+    {
+      "name": "New Mexico",
+      "abbreviation": "NM",
+      "image": "https://www.freeclipartnow.com/d/21877-6/new-mexico.jpg",
+      "value": "1.07"
+    },
+    {
+      "name": "New York",
+      "abbreviation": "NY",
+      "image": "https://www.freeclipartnow.com/d/21879-6/new-york.jpg",
+      "value": "0.87"
+    },
+    {
+      "name": "North Carolina",
+      "abbreviation": "NC",
+      "image": "https://www.freeclipartnow.com/d/21881-6/north-carolina.jpg",
+      "value": "1.10"
+    },
+    {
+      "name": "North Dakota",
+      "abbreviation": "ND",
+      "image": "https://www.freeclipartnow.com/d/21883-6/north-dakota.jpg",
+      "value": "1.09"
+    },
+    {
+      "name": "Ohio",
+      "abbreviation": "OH",
+      "image": "https://www.freeclipartnow.com/d/21885-6/ohio.jpg",
+      "value": "1.12"
+    },
+    {
+      "name": "Oklahoma",
+      "abbreviation": "OK",
+      "image": "https://www.freeclipartnow.com/d/21887-6/oklahoma.jpg",
+      "value": "1.12"
+    },
+    {
+      "name": "Oregon",
+      "abbreviation": "OR",
+      "image": "https://www.freeclipartnow.com/d/21889-6/oregon.jpg",
+      "value": "1.00"
+    },
+    {
+      "name": "Pennsylvania",
+      "abbreviation": "PA",
+      "image": "https://www.freeclipartnow.com/d/21891-6/pennsylvania.jpg",
+      "value": "1.02"
+    },
+    {
+      "name": "Rhode Island",
+      "abbreviation": "RI",
+      "image": "https://www.freeclipartnow.com/d/21893-6/rhode-island.jpg",
+      "value": "1.00"
+    },
+    {
+      "name": "South Carolina",
+      "abbreviation": "SC",
+      "image": "https://www.freeclipartnow.com/d/21895-6/south-carolina.jpg",
+      "value": "1.11"
+    },
+    {
+      "name": "South Dakota",
+      "abbreviation": "SD",
+      "image": "https://www.freeclipartnow.com/d/21897-6/south-dakota.jpg",
+      "value": "1.13"
+    },
+    {
+      "name": "Tennessee",
+      "abbreviation": "TN",
+      "image": "https://www.freeclipartnow.com/d/21899-6/tennessee.jpg",
+      "value": "1.11"
+    },
+    {
+      "name": "Texas",
+      "abbreviation": "TX",
+      "image": "https://www.freeclipartnow.com/d/21901-6/texas.jpg",
+      "value": "1.03"
+    },
+    {
+      "name": "Utah",
+      "abbreviation": "UT",
+      "image": "https://www.freeclipartnow.com/d/21903-6/utah.jpg",
+      "value": "1.03"
+    },
+    {
+      "name": "Vermont",
+      "abbreviation": "VT",
+      "image": "https://www.freeclipartnow.com/d/21905-6/vermont.jpg",
+      "value": "0.98"
+    },
+    {
+      "name": "Virginia",
+      "abbreviation": "VA",
+      "image": "https://www.freeclipartnow.com/d/21907-6/virginia.jpg",
+      "value": "0.98"
+    },
+    {
+      "name": "Washington",
+      "abbreviation": "WA",
+      "image": "https://www.freeclipartnow.com/d/21909-6/washington.jpg",
+      "value": "0.95"
+    },
+    {
+      "name": "West Virginia",
+      "abbreviation": "WV",
+      "image": "https://www.freeclipartnow.com/d/21911-6/west-virginia.jpg",
+      "value": "1.14"
+    },
+    {
+      "name": "Wisconsin",
+      "abbreviation": "WI",
+      "image": "https://www.freeclipartnow.com/d/21913-6/wisconsin.jpg",
+      "value": "1.08"
+    },
+    {
+      "name": "Wyoming",
+      "abbreviation": "WY",
+      "image": "https://www.freeclipartnow.com/d/21915-6/wyoming.jpg",
+      "value": "1.03"
+    }
+  ]
