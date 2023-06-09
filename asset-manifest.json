@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DollarDex/static/css/main.460ba715.css",
+    "main.js": "/DollarDex/static/js/main.ea339099.js",
+    "static/js/787.e4b662cc.chunk.js": "/DollarDex/static/js/787.e4b662cc.chunk.js",
+    "index.html": "/DollarDex/index.html",
+    "main.460ba715.css.map": "/DollarDex/static/css/main.460ba715.css.map",
+    "main.ea339099.js.map": "/DollarDex/static/js/main.ea339099.js.map",
+    "787.e4b662cc.chunk.js.map": "/DollarDex/static/js/787.e4b662cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.460ba715.css",
+    "static/js/main.ea339099.js"
+  ]
+}
