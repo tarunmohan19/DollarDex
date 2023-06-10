@@ -61,7 +61,7 @@ function InputBox( {name, theChange, id, img, val} ) {
                   </div>
 
                   <div className="row">
-                      <img src={img} className="stateImage" alt="Displayed state} "/>
+                      <img src={img} className="stateImage img-fluid" alt="Displayed state} "/>
                   </div>
 
                   <div className="row text-center">

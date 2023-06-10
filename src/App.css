@@ -4,7 +4,7 @@
     min-height: 100%;
     background-size: cover;
     background-position: center;
-    /* position: fixed; */
+    position: absolute;
     padding-bottom: 1vw;
 }
 
@@ -16,8 +16,8 @@
 .stateImage {
     padding-top: 1vw;;
     padding-bottom: 1vw;
-    min-height: 3vw;
-    min-width: 3vw;;
+    /* min-height: 3vw;
+    min-width: 3vw;; */
     max-height: 25vw;
 
 }
